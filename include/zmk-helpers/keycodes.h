@@ -1,6 +1,6 @@
 #define XXXXXXXXXXX &none
 #define ___________ &trans
-#define vvvvvvvvvvv &none  // use when illustrating held key on a layer
+#define vvvvvvvvvvv &trans  // use when illustrating held key on a layer
 
 #define _____A_____ &kp A
 #define _____B_____ &kp B
